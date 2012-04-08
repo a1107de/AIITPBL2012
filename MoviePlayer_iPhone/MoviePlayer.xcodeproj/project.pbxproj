@@ -61,6 +61,10 @@
 		849C880F0F899862005A6DDE /* MyStreamingMovieViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MyStreamingMovieViewController.h; path = Classes/MyStreamingMovieViewController.h; sourceTree = "<group>"; };
 		849C88100F899862005A6DDE /* MyStreamingMovieViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MyStreamingMovieViewController.m; path = Classes/MyStreamingMovieViewController.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C5B141A1526C1A1003B8CC6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ja; path = "/Users/DaisukeEdo/AIITPBL2012/MoviePlayer_iPhone/ja.lproj/MainWindow-iPad.xib"; sourceTree = "<absolute>"; };
+		9C5B141B1526C1A1003B8CC6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ja; path = /Users/DaisukeEdo/AIITPBL2012/MoviePlayer_iPhone/ja.lproj/MainWindow.xib; sourceTree = "<absolute>"; };
+		9C5B141C1526C1A1003B8CC6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ja; path = /Users/DaisukeEdo/AIITPBL2012/MoviePlayer_iPhone/ja.lproj/SecondView.xib; sourceTree = "<absolute>"; };
+		9C5B141D1526C1A1003B8CC6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ja; path = "/Users/DaisukeEdo/AIITPBL2012/MoviePlayer_iPhone/ja.lproj/SecondView-iPad.xib"; sourceTree = "<absolute>"; };
 		AF5D8389136D28E100A24F8A /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
 		AF5D838A136D28E100A24F8A /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
 		AF5D838B136D28E100A24F8A /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
@@ -275,7 +279,7 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0430;
 			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MoviePlayer" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -349,6 +353,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				53F69CED0DDB4A390051C004 /* en */,
+				9C5B141B1526C1A1003B8CC6 /* ja */,
 			);
 			name = MainWindow.xib;
 			sourceTree = "<group>";
@@ -357,6 +362,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				8487EAA90F8A5E2B00B9E9B0 /* en */,
+				9C5B141C1526C1A1003B8CC6 /* ja */,
 			);
 			name = SecondView.xib;
 			sourceTree = "<group>";
@@ -365,6 +371,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				AF796CD0136CF60D0013E770 /* en */,
+				9C5B141A1526C1A1003B8CC6 /* ja */,
 			);
 			name = "MainWindow-iPad.xib";
 			sourceTree = "<group>";
@@ -373,6 +380,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				AF796CD2136CF60D0013E770 /* en */,
+				9C5B141D1526C1A1003B8CC6 /* ja */,
 			);
 			name = "SecondView-iPad.xib";
 			sourceTree = "<group>";

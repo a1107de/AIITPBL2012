@@ -94,6 +94,10 @@
 		53DEEA4F0DB17ECC00B56347 /* ThreeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeViewController.h; sourceTree = "<group>"; };
 		53F798100DD143990039426E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C5B14271526C211003B8CC6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ja; path = /Users/DaisukeEdo/AIITPBL2012/Tabster/ja.lproj/MainWindow.xib; sourceTree = "<absolute>"; };
+		9C5B14281526C211003B8CC6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ja; path = /Users/DaisukeEdo/AIITPBL2012/Tabster/ja.lproj/FourViewController.xib; sourceTree = "<absolute>"; };
+		9C5B14291526C211003B8CC6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ja; path = /Users/DaisukeEdo/AIITPBL2012/Tabster/ja.lproj/LandscapeView.xib; sourceTree = "<absolute>"; };
+		9C5B142A1526C211003B8CC6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ja; path = /Users/DaisukeEdo/AIITPBL2012/Tabster/ja.lproj/ModalViewController.xib; sourceTree = "<absolute>"; };
 		D0E6CCF213C780AC008F8E43 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -321,6 +325,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				5331DEDB0FD5AAE500F2BF21 /* en */,
+				9C5B14291526C211003B8CC6 /* ja */,
 			);
 			name = LandscapeView.xib;
 			sourceTree = "<group>";
@@ -329,6 +334,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				535839F510051D9A00D97F7B /* en */,
+				9C5B142A1526C211003B8CC6 /* ja */,
 			);
 			name = ModalViewController.xib;
 			sourceTree = "<group>";
@@ -337,6 +343,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				537383F0101E24B40023B560 /* en */,
+				9C5B14281526C211003B8CC6 /* ja */,
 			);
 			name = FourViewController.xib;
 			sourceTree = "<group>";
@@ -345,6 +352,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				53F798100DD143990039426E /* en */,
+				9C5B14271526C211003B8CC6 /* ja */,
 			);
 			name = MainWindow.xib;
 			sourceTree = "<group>";

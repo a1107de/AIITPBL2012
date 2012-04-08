@@ -1,13 +1,13 @@
 //
-//  Example02Tests.h
-//  Example02Tests
+//  CountTestTests.h
+//  CountTestTests
 //
-//  Created by 江戸 大典 on 12/03/28.
+//  Created by 江戸 大典 on 12/04/08.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 
 #import <SenTestingKit/SenTestingKit.h>
 
-@interface Example02Tests : SenTestCase
+@interface CountTestTests : SenTestCase
 
 @end
